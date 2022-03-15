@@ -10,7 +10,7 @@ namespace assignment {
 
     // Write your code here ...
 
-    return 0;
+    return 1;
   }
 
   // Task 2
